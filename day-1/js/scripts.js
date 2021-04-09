@@ -78,7 +78,7 @@ function addTwoClick(){
 let Person = {
     firstName : 'John',
     lastName : 'Doe',
-
+    MiddleName: "Hero",
 };
 // Set a click listener to appear something.
 
